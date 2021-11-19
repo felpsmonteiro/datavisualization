@@ -17,5 +17,5 @@ Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github
 
 ## Aula do dia 19/11/2021 
 
-<iframe width="100%" height="374" frameborder="0"
-  src="https://observablehq.com/embed/@felpsmonteiro/vega-lite-api-exercicios?cells=graph1"></iframe>
+<iframe width="100%" height="500" frameborder="0"
+  src="https://observablehq.com/embed/@felpsmonteiro/vega-lite-api-exercicios?cell=*"></iframe>
